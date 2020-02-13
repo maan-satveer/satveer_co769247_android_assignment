@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favourite Places </string>
+    <string name="api_key">AIzaSyAlVxJmPqdVc9Kxk67BAgNlrDb1rClhzVo</string>
+    <string name="api_key_places">YOUR_API_KEY</string>
+</resources>
